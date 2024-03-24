@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\bin\Debug\net8.0\UserGenderValidation.exe
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\bin\Debug\net8.0\UserGenderValidation.deps.json
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\bin\Debug\net8.0\UserGenderValidation.runtimeconfig.json
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\bin\Debug\net8.0\UserGenderValidation.dll
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\bin\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.dll
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\refint\UserGenderValidation.dll
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\UserGenderValidation\UserGenderValidation\obj\Debug\net8.0\ref\UserGenderValidation.dll
